@@ -4,7 +4,6 @@ def verification(nbr):
         veri = False 
         if type(nbr) == type(1):
             veri = True
-            
         return veri
     
 class  Gpwd:
